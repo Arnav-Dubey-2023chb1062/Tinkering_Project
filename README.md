@@ -58,4 +58,4 @@ An autonomous robot designed to navigate through complex mazes using a right-han
 
 ---
 
-*Note: This robot serves as a foundation for advanced autonomous navigation systems.*[1]
+*Note: This robot serves as a foundation for advanced and accurate autonomous navigation systems.*[1]
